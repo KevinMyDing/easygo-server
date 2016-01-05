@@ -1,0 +1,4 @@
+2016/01/05 12:37:42.432951 log.go:59: log to file sample
+2016/01/05 12:37:42.435450 util.go:35: [D] new login[0], pid: 10096
+2016/01/05 12:37:42.436450 Main.go:70: [D] connect redis ok, host: 127.0.0.1:6379
+2016/01/05 12:37:43.441216 Main.go:77: [D] connect mysql ok, host: 127.0.0.1:3306
